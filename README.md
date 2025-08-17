@@ -1,9 +1,8 @@
-# Challenge_Data_Science_Loja_Joao
-# Estudo de Dados: Decisão de Venda - CIL Store
+# Estudo de Dados: Decisão de Venda - Alura Store
 
  1. Panorama do Projeto
 
-Este projeto surgiu para dar um apoio ao Senhor João, dono das lojas CIL Store, numa escolha essencial: qual das quatro lojas vender para começar um novo negócio. A escolha teve como base uma análise dos números de vendas, do desempenho e da opinião dos clientes de cada loja.
+Este projeto surgiu para dar um apoio ao Senhor João, dono das lojas Alura Store, numa escolha essencial: qual das quatro lojas vender para começar um novo negócio. A escolha teve como base uma análise dos números de vendas, do desempenho e da opinião dos clientes de cada loja.
 
  2. Ferramentas Usadas
 
